@@ -1,2 +1,2 @@
-# Minimal-Personal-Site
+# Minimal Personal WebSite
 Minimal Personal WebSite
