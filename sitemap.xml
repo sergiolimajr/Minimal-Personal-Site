@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>/articles/teste4/</loc>
+    <lastmod>2017-05-07T16:27:14-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/articles/teste3/</loc>
+    <lastmod>2017-05-05T16:25:52-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/articles/teste2/</loc>
+    <lastmod>2017-05-02T21:02:13-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/articles/teste/</loc>
+    <lastmod>2017-04-29T21:02:13-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/articles/</loc>
+    <lastmod>2017-05-07T16:27:14-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2017-05-07T16:27:14-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

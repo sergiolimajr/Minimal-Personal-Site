@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 May 2017 16:27:14 -0300</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Proident sit in irure sunt laboris veniam est incididunt duis.</title>
+      <link>/articles/teste4/</link>
+      <pubDate>Sun, 07 May 2017 16:27:14 -0300</pubDate>
+      
+      <guid>/articles/teste4/</guid>
+      <description>Nostrud proident eu do exercitation voluptate nostrud officia ex. Veniam aliqua eu dolor nisi est anim in eiusmod sint cupidatat dolor deserunt eiusmod pariatur. Amet tempor do ut magna anim ipsum adipisicing Lorem pariatur.
+Exercitation elit excepteur aute quis aliqua. Exercitation mollit nisi commodo ut culpa voluptate officia id dolor tempor ad consectetur. Pariatur duis veniam ullamco enim sint ea ullamco id reprehenderit. Deserunt consequat excepteur qui ea aliquip fugiat cillum ea exercitation excepteur ullamco elit dolor.</description>
+    </item>
+    
+    <item>
+      <title>Et deserunt veniam proident quis ad Lorem eu.</title>
+      <link>/articles/teste3/</link>
+      <pubDate>Fri, 05 May 2017 16:25:52 -0300</pubDate>
+      
+      <guid>/articles/teste3/</guid>
+      <description>Ex tempor elit sint velit amet qui aliqua magna et incididunt proident esse ullamco excepteur. Exercitation minim minim qui dolore nulla qui dolor ad proident magna sint ex ad. Nostrud veniam labore id nisi ad in excepteur velit culpa. In dolor aliqua culpa aute do reprehenderit esse tempor veniam enim ad culpa. Excepteur aliqua nulla deserunt veniam labore elit magna officia qui commodo.
+Esse eu consectetur ad elit ut ullamco consectetur cillum ad aute ad aliqua aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Eu eu duis ea dolor do duis in cupidatat.</title>
+      <link>/articles/teste2/</link>
+      <pubDate>Tue, 02 May 2017 21:02:13 -0300</pubDate>
+      
+      <guid>/articles/teste2/</guid>
+      <description>Aliqua consectetur pariatur reprehenderit proident elit. Ipsum fugiat non ea est culpa amet do dolore cupidatat consequat. Aliquip eiusmod aute dolore occaecat aute ipsum. Anim deserunt ad anim proident proident. Occaecat cillum nisi aliquip nostrud do laboris nulla sint anim sint ut et.
+Lorem in esse officia officia aute. Labore officia dolore voluptate fugiat quis velit. Ex minim eiusmod cillum est ullamco in officia magna ea ullamco dolor exercitation excepteur ea.</description>
+    </item>
+    
+    <item>
+      <title>Tempor nulla magna do mollit dolore.</title>
+      <link>/articles/teste/</link>
+      <pubDate>Sat, 29 Apr 2017 21:02:13 -0300</pubDate>
+      
+      <guid>/articles/teste/</guid>
+      <description>Aliqua consectetur pariatur reprehenderit proident elit. Ipsum fugiat non ea est culpa amet do dolore cupidatat consequat. Aliquip eiusmod aute dolore occaecat aute ipsum. Anim deserunt ad anim proident proident. Occaecat cillum nisi aliquip nostrud do laboris nulla sint anim sint ut et.
+Lorem in esse officia officia aute. Labore officia dolore voluptate fugiat quis velit. Ex minim eiusmod cillum est ullamco in officia magna ea ullamco dolor exercitation excepteur ea.</description>
+    </item>
+    
+  </channel>
+</rss>
